@@ -54,18 +54,18 @@ Dalam pembuatan website ini menggunakan laravel 6. Alasan memakasi framework lar
    - Password : alwayssisterhoodsidn
 
 ## Fitur-Fitur Untuk User Yang Ditawarkan
-- Tulis Artikel.
-Pengguna bisa menuliskan artikel pada halaman get involved di bagian submit an article. Pengguna bisa memasukkan nama, email, kota, judul artikel, dan isi artikel.
-- Baca Artikel.
-Artikel dari pengguna akan masuk ke dalam halaman admin, lalu akan diseleksi oleh admin, kemudian akan dipublikasikan pada halaman artikel.
-- Daftar Acara.
-Pengguna bisa mendaftarkan diri untuk mengikuti segala kegiatan dan acara yang dilakukan oleh sisterhoods yang bisa dilihat pada halaman events. Apabila pengguna ingin mendaftarkan diri, pengguna akan diarahkan ke link google form yang tertaut pada button yang tersedia pada tiap acara. 
+- Tulis Artikel
+   - Pengguna bisa menuliskan artikel pada halaman get involved di bagian submit an article. Pengguna bisa memasukkan nama, email, kota, judul artikel, dan isi artikel.
+- Baca Artikel
+   - Artikel dari pengguna akan masuk ke dalam halaman admin, lalu akan diseleksi oleh admin, kemudian akan dipublikasikan pada halaman artikel.
+- Daftar Acara
+   - Pengguna bisa mendaftarkan diri untuk mengikuti segala kegiatan dan acara yang dilakukan oleh sisterhoods yang bisa dilihat pada halaman events. Apabila pengguna ingin mendaftarkan diri, pengguna akan diarahkan ke link google form yang tertaut pada button yang tersedia pada tiap acara. 
 
 ## Fitur-Fitur Untuk Admin Yang Ditawarkan
-- Tambah Artikel.
-Sebelum admin mempublikasikan artikel, admin harus melakukan tahap penyeleksian artikel terlebih dahulu. Lalu jika admin sudah melakukan penyeleksian, maka langkah selanjutnya  admin akan mempublikasikan artikel mana yang pantas untuk dipublikasikan.
+- Tambah Artikel
+   - Sebelum admin mempublikasikan artikel, admin harus melakukan tahap penyeleksian artikel terlebih dahulu. Lalu jika admin sudah melakukan penyeleksian, maka langkah selanjutnya  admin akan mempublikasikan artikel mana yang pantas untuk dipublikasikan.
 - Edit Artikel
-Admin bisa mengubah suatu artikel pada halaman List Submission supaya penggunaan kalimat pada artikel tertata rapi dan lebih mudah dibaca oleh orang yang mengakses website Sisterhoods.
+   - Admin bisa mengubah suatu artikel pada halaman List Submission supaya penggunaan kalimat pada artikel tertata rapi dan lebih mudah dibaca oleh orang yang mengakses website Sisterhoods.
 
 ## Screenshot Program
 - **Halaman Home**
