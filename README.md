@@ -122,5 +122,5 @@ Admin bisa mengubah suatu artikel pada halaman List Submission supaya penggunaan
 
 ## Kode-Kode Inti Beserta Penjelasannya
 - **App**
-    -Folder ini berisi kode inti yang terdiri dari lima folder, yaitu :
-      -Console
+    - Folder ini berisi kode inti yang terdiri dari lima folder, yaitu :
+      - Console
