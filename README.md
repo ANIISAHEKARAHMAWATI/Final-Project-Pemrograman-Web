@@ -144,7 +144,7 @@ Dalam pembuatan website ini menggunakan laravel 6. Alasan memakasi framework lar
     - Folder ini berisi semua assets seperti gambar, file javascript, dan CSS.
 
 - **Resources**
-    - Folder ini berisi assets mentah seperti file LESS & Sass, pengaturan waktu, dan bahasa.
+    - Folder ini berisi assets mentah seperti file LESS & Sass, pengaturan waktu, bahasa dan folder views yang berisi file-file yang berkaitan dengan isi tampilan dalam halaman website.
 
 - **Routes**
     - Folder ini berisi semua rute yang didefinisikan pada aplikasi.
