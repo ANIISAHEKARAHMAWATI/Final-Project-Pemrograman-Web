@@ -14,6 +14,9 @@ Kurangnya wadah bagi perempuan untuk mengaktualisasikan diri sehingga membuat pe
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
 ## Sitemap Apllication
+Sitemap User
+<img src=public/layouts/img/sitemap user.png/>
+
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
