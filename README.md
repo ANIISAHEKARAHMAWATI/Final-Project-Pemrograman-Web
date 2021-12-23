@@ -38,6 +38,13 @@ Dengan adanya pre-loaded libraries pada Framework Laravel, proses pembuatan apli
 - Mudah dalam migrasi data.
 Setelah melakukan pembaharuan aplikasi, tidak perlu repot untuk membuat ulang struktur database yang baru, karena sistem sudah bisa melakukan migrasi data secara langsung. Informasi akan tampil secara utuh sesuai dengan hasil input terakhir.
 
+## Cara Penggunaan Aplikasi 
+- Website sisterhoods dapat diakses melalui link berikut ini :
+   - [Click Me](https://sisterhoods.my.id/)
+- Untuk login admin bisa menggunakan :
+   - Email : sisterhoods.idn@gmail.com
+   - Password : alwayssisterhoodsidn
+
 ## Fitur-Fitur Untuk User Yang Ditawarkan
 - Tulis Artikel.
 Pengguna bisa menuliskan artikel pada halaman get involved di bagian submit an article. Pengguna bisa memasukkan nama, email, kota, judul artikel, dan isi artikel.
@@ -92,39 +99,20 @@ Admin bisa mengubah suatu artikel pada halaman List Submission supaya penggunaan
 - **Halaman Dashboard Admin**
 <img src=public/layouts/img/Admin1.png/>
 
+- **Halaman Article Submission**
+<img src=public/layouts/img/Admin2.png/>
+
+- **Halaman List Submission**
+<img src=public/layouts/img/Admin3.png/>
+
+- **Halaman Add Article**
+<img src=public/layouts/img/Admin4dan5.png/>
+
+- **Halaman Edit Article**
+<img src=public/layouts/img/Admin6dan7.png/>
 
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[British Software Development](https://www.britishsoftware.co)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- [UserInsights](https://userinsights.com)
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
-- [User10](https://user10.com)
-- [Soumettre.fr](https://soumettre.fr/)
-- [CodeBrisk](https://codebrisk.com)
-- [1Forge](https://1forge.com)
-- [TECPRESSO](https://tecpresso.co.jp/)
-- [Runtime Converter](http://runtimeconverter.com/)
-- [WebL'Agence](https://weblagence.com/)
-- [Invoice Ninja](https://www.invoiceninja.com)
-- [iMi digital](https://www.imi-digital.de/)
-- [Earthlink](https://www.earthlink.ro/)
-- [Steadfast Collective](https://steadfastcollective.com/)
-- [We Are The Robots Inc.](https://watr.mx/)
-- [Understand.io](https://www.understand.io/)
-- [Abdel Elrafa](https://abdelelrafa.com)
-- [Hyper Host](https://hyper.host)
-- [Appoly](https://www.appoly.co.uk)
-- [OP.GG](https://op.gg)
-
-## Contributing
+## Kode-Kode Inti Beserta Penjelasannya
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
