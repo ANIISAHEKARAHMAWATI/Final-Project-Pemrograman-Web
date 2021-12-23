@@ -1,5 +1,5 @@
 ## Aplikasi Sisterhoods Untuk Aspirasi Wanita
-<img src=public/layouts/img/jumbotron.png/>
+<img src=public/layouts/img/HOME.png/>
 
 ## About Application
 Kurangnya wadah bagi perempuan untuk mengaktualisasikan diri sehingga membuat perempuan jadi tak bebas dalam berekspresi. Padahal kita tahu bahwa kebebasan berekspresi adalah hak universal yang harus dinikmati oleh semua orang. Dengan adanya website Sisterhoods ini, bisa memudahkan para wanita di Indonesia untuk menyuarakan suara mereka, mengedukasi, serta mendukung para wanita di Indonesia agar lebih berani untuk menyampaikan aspirasinya. Tak hanya itu, website Sisterhoods ini juga membantu para wanita di Indonesia agar tidak merasa sendirian, agar mampu melewati masa-masa yang sulit, dan bisa menjalani kehidupan yang lebih bahagia dari sebelumnya. 
@@ -13,10 +13,11 @@ Kurangnya wadah bagi perempuan untuk mengaktualisasikan diri sehingga membuat pe
 - [Robust background job processing](https://laravel.com/docs/queues).
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-## Sitemap Apllication
-Sitemap User
+## Sitemap User Application
 <img src=public/layouts/img/sitemapuser.png/>
 
+## Sitemap User Application
+<img src=public/layouts/img/sitemapadmin.png/>
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
