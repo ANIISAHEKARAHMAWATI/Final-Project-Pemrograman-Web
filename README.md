@@ -1,3 +1,11 @@
+## Kelompok 1 
+- **Azzuraa Shabika Aqmarina	(19081010033)**
+- **Aniisah Eka Rahmawati		(19081010063)**
+- **Quincy Mayferta P. P. A		(19081010127)**
+- **Sabrina Heryanti Suryandari	(19081010130)**
+- **Claudia Millennia Suprapto 	(19081010160)**
+- **Vincentia Indri Octaviani 	(19081010168)**
+
 ## Aplikasi Sisterhoods Untuk Aspirasi Wanita
 <img src=public/layouts/img/Home.png/>
 
@@ -113,17 +121,6 @@ Admin bisa mengubah suatu artikel pada halaman List Submission supaya penggunaan
 
 
 ## Kode-Kode Inti Beserta Penjelasannya
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+- **App**
+    -Folder ini berisi kode inti yang terdiri dari lima folder, yaitu :
+      -Console
