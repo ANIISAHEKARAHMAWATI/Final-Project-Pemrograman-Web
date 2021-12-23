@@ -104,9 +104,6 @@ Dalam pembuatan website ini menggunakan laravel 6. Alasan memakasi framework lar
 - **Halaman Dashboard Admin**
 <img src=public/layouts/img/Admin1.png/>
 
-- **Halaman Dashboard Admin**
-<img src=public/layouts/img/Admin1.png/>
-
 - **Halaman Article Submission**
 <img src=public/layouts/img/Admin2.png/>
 
