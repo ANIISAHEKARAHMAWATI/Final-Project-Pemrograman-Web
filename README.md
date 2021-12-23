@@ -124,3 +124,7 @@ Admin bisa mengubah suatu artikel pada halaman List Submission supaya penggunaan
 - **App**
     - Folder ini berisi kode inti yang terdiri dari lima folder, yaitu :
       - Console
+        - folder ini berisi semua perintah Artisan yang dibuat dengan make:command
+      - Exception
+        - folder ini berisi semua handler pengecualian dan folder ini bagus untuk menambahkan class yang sudah disesuaikan sendiri untuk menangani pengecualian yang diberikan aplikasi
+      - Http
