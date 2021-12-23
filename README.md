@@ -17,11 +17,19 @@ Kurangnya wadah bagi perempuan untuk mengaktualisasikan diri sehingga membuat pe
 ## Sitemap Admin Application
 <img src=public/layouts/img/sitemapadmin.png/>
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## Penjelasan Sitemap Admin Application
+- Admin dapat melakukan login untuk masuk ke dashboard.
+- Admin dapat melihat artikel-artikel yang dikirim oleh pengguna di bagian article submission.
+- Admin dapat menambah artikel untuk dipublish pada halaman list article dengan menyaring artikel-artikel yang ada pada article submission.
+- Admin dapat mengedit artikel pada halaman list article.
+- Admin dapat menghapus artikel yang ingin dihapus  pada halaman list article.
+- Admin dapat melakukan logout dari dashboard.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## Teknologi Yang Digunakan
+Dalam pembuatan website ini menggunakan laravel 6. Alasan memakasi framework laravel 6 :
+- Object oriented libraries
+Pre-loaded libraries seperti perpustakaan autentikasi membuat Laravel lebih unik dibandingkan dengan kerangka kerja lainnya. Kerangka kerja ini memiliki sejumlah pustaka yang dapat digunakan untuk membantu, membangun serta mengembangkan sebuah aplikasi dengan cepat.
 
-## Laravel Sponsors
 
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
