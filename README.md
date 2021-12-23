@@ -1,5 +1,5 @@
 ## Aplikasi Sisterhoods Untuk Aspirasi Wanita
-
+<img src=public/layouts/img/jumbotron.png/>
 
 ## About Laravel
 
