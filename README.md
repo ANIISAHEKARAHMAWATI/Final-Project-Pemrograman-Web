@@ -27,11 +27,38 @@ Kurangnya wadah bagi perempuan untuk mengaktualisasikan diri sehingga membuat pe
 
 ## Teknologi Yang Digunakan
 Dalam pembuatan website ini menggunakan laravel 6. Alasan memakasi framework laravel 6 :
-- Object oriented libraries
+- Object oriented libraries. 
 Pre-loaded libraries seperti perpustakaan autentikasi membuat Laravel lebih unik dibandingkan dengan kerangka kerja lainnya. Kerangka kerja ini memiliki sejumlah pustaka yang dapat digunakan untuk membantu, membangun serta mengembangkan sebuah aplikasi dengan cepat.
+- Terdapat fasilitas arsitektur MVC.
+Fasilitas arsitektur MVC (Model-View-Controller) yang tersedia pada Laravel ini sangat membantu untuk memisahkan sistem aplikasi berdasarkan antara manipulasi data, antar pengguna, dan bagian kontrol utama aplikasi.
+- Kustomisasi website.
+Laravel Framework sudah memiliki paket skenario yang disediakan untuk pengguna, tapi tetap bisa fleksibel untuk melakukan kustomisasi website sesuai keinginan serta kebutuhan. Tak hanya mudah dalam kustomisasi awal pembuatan website, tetapi juga mudah untuk melakukan improvisasi website dengan sangat mudah.
+- Tidak membutuhkan waktu lama.
+Dengan adanya pre-loaded libraries pada Framework Laravel, proses pembuatan aplikasi yang Anda inginkan akan menjadi lebih cepat dan fungsinya sesuai kebutuhan.
+- Mudah dalam migrasi data.
+Setelah melakukan pembaharuan aplikasi, tidak perlu repot untuk membuat ulang struktur database yang baru, karena sistem sudah bisa melakukan migrasi data secara langsung. Informasi akan tampil secara utuh sesuai dengan hasil input terakhir.
 
+## Fitur-Fitur Untuk User Yang Ditawarkan
+- Tulis Artikel.
+Pengguna bisa menuliskan artikel pada halaman get involved di bagian submit an article. Pengguna bisa memasukkan nama, email, kota, judul artikel, dan isi artikel.
+- Baca Artikel.
+Artikel dari pengguna akan masuk ke dalam halaman admin, lalu akan diseleksi oleh admin, kemudian akan dipublikasikan pada halaman artikel.
+- Daftar Acara.
+Pengguna bisa mendaftarkan diri untuk mengikuti segala kegiatan dan acara yang dilakukan oleh sisterhoods yang bisa dilihat pada halaman events. Apabila pengguna ingin mendaftarkan diri, pengguna akan diarahkan ke link google form yang tertaut pada button yang tersedia pada tiap acara. 
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+## Fitur-Fitur Untuk Admin Yang Ditawarkan
+- Tambah Artikel.
+Sebelum admin mempublikasikan artikel, admin harus melakukan tahap penyeleksian artikel terlebih dahulu. Lalu jika admin sudah melakukan penyeleksian, maka langkah selanjutnya  admin akan mempublikasikan artikel mana yang pantas untuk dipublikasikan.
+- Edit Artikel
+Admin bisa mengubah suatu artikel pada halaman List Submission supaya penggunaan kalimat pada artikel tertata rapi dan lebih mudah dibaca oleh orang yang mengakses website Sisterhoods.
+
+## Screenshot Program
+- **Halaman Home **
+<img src=public/layouts/img/Home.png/>
+
+- **Halaman About Us (Vision Mission)**
+<img src=public/layouts/img/VisionMission.png/>
+
 
 - **[Vehikl](https://vehikl.com/)**
 - **[Tighten Co.](https://tighten.co)**
