@@ -15,6 +15,13 @@ Kurangnya wadah bagi perempuan untuk mengaktualisasikan diri sehingga membuat pe
 
 ## Sitemap User Application
 <img src=public/layouts/img/sitemapuser.png/>
+- Pengguna dapat mengakses bagian article untuk melihat artikel-artikel yang terpublish serta dapat membaca artikel yang tersedia .
+- [Powerful dependency injection container](https://laravel.com/docs/container).
+- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
+- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
+- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
+- [Robust background job processing](https://laravel.com/docs/queues).
+- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 - **[Pengguna dapat mengakses bagian home dan akan ditampilkan halaman yang berisi jumbotron, about, dan tampilan instagram sisterhoods yang dihubungkan oleh fitur embed social]**.
 - [Pengguna dapat mengakses bagian about us dan akan ditampilkan dropdown vision & mission yang berisi visi dan misi dari sisterhoods serta dropdown meet the team yang berisi nama anggota dan foto] .
 - [Pengguna dapat mengakses bagian article untuk melihat artikel-artikel yang terpublish serta dapat membaca artikel yang tersedia] .
