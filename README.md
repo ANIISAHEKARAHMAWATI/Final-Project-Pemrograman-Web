@@ -4,31 +4,15 @@
 ## About Application
 Kurangnya wadah bagi perempuan untuk mengaktualisasikan diri sehingga membuat perempuan jadi tak bebas dalam berekspresi. Padahal kita tahu bahwa kebebasan berekspresi adalah hak universal yang harus dinikmati oleh semua orang. Dengan adanya website Sisterhoods ini, bisa memudahkan para wanita di Indonesia untuk menyuarakan suara mereka, mengedukasi, serta mendukung para wanita di Indonesia agar lebih berani untuk menyampaikan aspirasinya. Tak hanya itu, website Sisterhoods ini juga membantu para wanita di Indonesia agar tidak merasa sendirian, agar mampu melewati masa-masa yang sulit, dan bisa menjalani kehidupan yang lebih bahagia dari sebelumnya. 
 
-
-- [Pengguna dapat mengakses bagian article untuk melihat artikel-artikel yang terpublish serta dapat membaca artikel yang tersedia].
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
 ## Sitemap User Application
 <img src=public/layouts/img/sitemapuser.png/>
 
 ## Penjelasan Sitemap User Application
-- Pengguna dapat mengakses bagian article untuk melihat artikel-artikel yang terpublish serta dapat membaca artikel yang tersedia .
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-- **[Pengguna dapat mengakses bagian home dan akan ditampilkan halaman yang berisi jumbotron, about, dan tampilan instagram sisterhoods yang dihubungkan oleh fitur embed social]**.
-- [Pengguna dapat mengakses bagian about us dan akan ditampilkan dropdown vision & mission yang berisi visi dan misi dari sisterhoods serta dropdown meet the team yang berisi nama anggota dan foto] .
-- [Pengguna dapat mengakses bagian article untuk melihat artikel-artikel yang terpublish serta dapat membaca artikel yang tersedia] .
-- [Pengguna dapat mengakses bagian events untuk melihat events lama yang diadakn sisterhoods serta mengikuti events-events terbaru] .
-- [Pengguna dapat mengakses get involved yang berisi carousel dari link-link yang bermanfaat untuk pengguna seperti link hotlines maupun untuk donasi. Selain itu pengguna juga dapat mengupload artikel mereka sendiri dengan melakukan pengisian pada form submit article] .
+- Pengguna dapat mengakses bagian home dan akan ditampilkan halaman yang berisi jumbotron, about, dan tampilan instagram sisterhoods yang dihubungkan oleh fitur embed social.
+- Pengguna dapat mengakses bagian about us dan akan ditampilkan dropdown vision & mission yang berisi visi dan misi dari sisterhoods serta dropdown meet the team yang berisi nama anggota dan foto.
+- Pengguna dapat mengakses bagian article untuk melihat artikel-artikel yang terpublish serta dapat membaca artikel yang tersedia.
+- Pengguna dapat mengakses bagian events untuk melihat events lama yang diadakn sisterhoods serta mengikuti events-events terbaru.
+- Pengguna dapat mengakses get involved yang berisi carousel dari link-link yang bermanfaat untuk pengguna seperti link hotlines maupun untuk donasi. Selain itu pengguna juga dapat mengupload artikel mereka sendiri dengan melakukan pengisian pada form submit article.
 
 ## Sitemap Admin Application
 <img src=public/layouts/img/sitemapadmin.png/>
