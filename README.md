@@ -2,8 +2,8 @@
 <img src=public/layouts/img/jumbotron.png/>
 
 ## About Application
+Kurangnya wadah bagi perempuan untuk mengaktualisasikan diri sehingga membuat perempuan jadi tak bebas dalam berekspresi. Padahal kita tahu bahwa kebebasan berekspresi adalah hak universal yang harus dinikmati oleh semua orang. Dengan adanya website Sisterhoods ini, bisa memudahkan para wanita di Indonesia untuk menyuarakan suara mereka, mengedukasi, serta mendukung para wanita di Indonesia agar lebih berani untuk menyampaikan aspirasinya. Tak hanya itu, website Sisterhoods ini juga membantu para wanita di Indonesia agar tidak merasa sendirian, agar mampu melewati masa-masa yang sulit, dan bisa menjalani kehidupan yang lebih bahagia dari sebelumnya. 
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
@@ -13,9 +13,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - [Robust background job processing](https://laravel.com/docs/queues).
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
+## Sitemap Apllication
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
