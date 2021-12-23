@@ -16,10 +16,10 @@ Kurangnya wadah bagi perempuan untuk mengaktualisasikan diri sehingga membuat pe
 ## Sitemap User Application
 <img src=public/layouts/img/sitemapuser.png/>
 - [Pengguna dapat mengakses bagian home dan akan ditampilkan halaman yang berisi jumbotron, about, dan tampilan instagram sisterhoods yang dihubungkan oleh fitur embed social].
--Pengguna dapat mengakses bagian about us dan akan ditampilkan dropdown vision & mission yang berisi visi dan misi dari sisterhoods serta dropdown meet the team yang berisi nama anggota dan foto.
--Pengguna dapat mengakses bagian article untuk melihat artikel-artikel yang terpublish serta dapat membaca artikel yang tersedia.
--Pengguna dapat mengakses bagian events untuk melihat events lama yang diadakn sisterhoods serta mengikuti events-events terbaru.
--Pengguna dapat mengakses get involved yang berisi carousel dari link-link yang bermanfaat untuk pengguna seperti link hotlines maupun untuk donasi. Selain itu pengguna juga dapat mengupload artikel mereka sendiri dengan melakukan pengisian pada form submit article.
+- [Pengguna dapat mengakses bagian about us dan akan ditampilkan dropdown vision & mission yang berisi visi dan misi dari sisterhoods serta dropdown meet the team yang berisi nama anggota dan foto] .
+- [Pengguna dapat mengakses bagian article untuk melihat artikel-artikel yang terpublish serta dapat membaca artikel yang tersedia] .
+- [Pengguna dapat mengakses bagian events untuk melihat events lama yang diadakn sisterhoods serta mengikuti events-events terbaru] .
+- [Pengguna dapat mengakses get involved yang berisi carousel dari link-link yang bermanfaat untuk pengguna seperti link hotlines maupun untuk donasi. Selain itu pengguna juga dapat mengupload artikel mereka sendiri dengan melakukan pengisian pada form submit article] .
 
 ## Sitemap Admin Application
 <img src=public/layouts/img/sitemapadmin.png/>
