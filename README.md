@@ -124,7 +124,39 @@ Dalam pembuatan website ini menggunakan laravel 6. Alasan memakasi framework lar
 - **App**
     - Folder ini berisi kode inti yang terdiri dari lima folder, yaitu :
       - Console
-        - folder ini berisi semua perintah Artisan yang dibuat dengan make:command
+        - Folder ini berisi semua perintah Artisan yang dibuat dengan make:command.
       - Exception
-        - folder ini berisi semua handler pengecualian dan folder ini bagus untuk menambahkan class yang sudah disesuaikan sendiri untuk menangani pengecualian yang diberikan aplikasi
+        - Folder ini berisi semua handler pengecualian dan folder ini bagus untuk menambahkan class yang sudah disesuaikan sendiri untuk menangani pengecualian yang diberikan aplikasi.
       - Http
+        - Folder ini berisi fungsi controllers, middleware dan requests.
+      - Models
+        - Fungsinya untuk menyimpan file Model.
+      - Providers
+        - Folder ini berisi semua penyedia layanan (service provider) untuk aplikasi. Penyedia layanan (service provider) merupakan tempat utama untuk bootstrap Laravel atau bisa diartikan sebagai bagian utama untuk mengkonfigurasi aplikasi. 
+  
+- **Bootstrap**
+    - Folder ini berisi semua framework bootstrap begitu juga dengan file konfigurasi. Folder ini juga memuat direktori cache yang berisi file cache yang dihasilkan oleh framework.
+ 
+- **Config**
+    - Folder ini berisi semua file konfigurasi aplikasi.
+
+- **Database**
+    - Folder ini berisi semua database migrasi dan seeds.
+   
+- **Public**
+    - Folder ini berisi semua assets seperti gambar, file javascript, dan CSS.
+
+- **Resources**
+    - Folder ini berisi assets mentah seperti file LESS & Sass, pengaturan waktu, dan bahasa.
+
+- **Routes**
+    - Folder ini berisi semua rute yang didefinisikan pada aplikasi.
+
+- **Storage**
+    - Folder ini berisi penyimpanan App, seperti unggahan file, cache, dan log.
+
+- **Test**
+    - Folder ini berisi semua file percobaan.
+
+- **Vendor**
+    - Folder ini berisi semua file dependency.
