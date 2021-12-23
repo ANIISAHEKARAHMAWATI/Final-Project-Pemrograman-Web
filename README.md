@@ -53,11 +53,45 @@ Sebelum admin mempublikasikan artikel, admin harus melakukan tahap penyeleksian 
 Admin bisa mengubah suatu artikel pada halaman List Submission supaya penggunaan kalimat pada artikel tertata rapi dan lebih mudah dibaca oleh orang yang mengakses website Sisterhoods.
 
 ## Screenshot Program
-- **Halaman Home **
+- **Halaman Home**
 <img src=public/layouts/img/Home.png/>
 
 - **Halaman About Us (Vision Mission)**
 <img src=public/layouts/img/VisionMission.png/>
+
+- **Halaman About Us (Meet The Team)**
+<img src=public/layouts/img/MeetTheTeam.png/>
+
+- **Halaman Article**
+<img src=public/layouts/img/Article.png/>
+
+- **Halaman Read More Article**
+<img src=public/layouts/img/ReadMoreArtikel.png/>
+
+- **Halaman Events**
+<img src=public/layouts/img/Events.png/>
+
+- **Halaman Sign Up Upcoming Events**
+<img src=public/layouts/img/SignupUpcomingEvents.png/>
+
+- **Halaman Get Involved**
+<img src=public/layouts/img/GetInvolved.png/>
+
+- **Halaman Hotlines**
+<img src=public/layouts/img/HOTLINES.png/>
+
+- **Halaman Sign Up Admin**
+<img src=public/layouts/img/SignupAdmin.png/>
+
+- **Halaman Login Admin**
+<img src=public/layouts/img/LoginAdmin.png/>
+
+- **Halaman Dashboard Admin**
+<img src=public/layouts/img/Admin1.png/>
+
+- **Halaman Dashboard Admin**
+<img src=public/layouts/img/Admin1.png/>
+
 
 
 - **[Vehikl](https://vehikl.com/)**
