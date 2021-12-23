@@ -35,16 +35,16 @@ Kurangnya wadah bagi perempuan untuk mengaktualisasikan diri sehingga membuat pe
 
 ## Teknologi Yang Digunakan
 Dalam pembuatan website ini menggunakan laravel 6. Alasan memakasi framework laravel 6 :
-- Object oriented libraries. 
-Pre-loaded libraries seperti perpustakaan autentikasi membuat Laravel lebih unik dibandingkan dengan kerangka kerja lainnya. Kerangka kerja ini memiliki sejumlah pustaka yang dapat digunakan untuk membantu, membangun serta mengembangkan sebuah aplikasi dengan cepat.
-- Terdapat fasilitas arsitektur MVC.
-Fasilitas arsitektur MVC (Model-View-Controller) yang tersedia pada Laravel ini sangat membantu untuk memisahkan sistem aplikasi berdasarkan antara manipulasi data, antar pengguna, dan bagian kontrol utama aplikasi.
-- Kustomisasi website.
-Laravel Framework sudah memiliki paket skenario yang disediakan untuk pengguna, tapi tetap bisa fleksibel untuk melakukan kustomisasi website sesuai keinginan serta kebutuhan. Tak hanya mudah dalam kustomisasi awal pembuatan website, tetapi juga mudah untuk melakukan improvisasi website dengan sangat mudah.
-- Tidak membutuhkan waktu lama.
-Dengan adanya pre-loaded libraries pada Framework Laravel, proses pembuatan aplikasi yang Anda inginkan akan menjadi lebih cepat dan fungsinya sesuai kebutuhan.
-- Mudah dalam migrasi data.
-Setelah melakukan pembaharuan aplikasi, tidak perlu repot untuk membuat ulang struktur database yang baru, karena sistem sudah bisa melakukan migrasi data secara langsung. Informasi akan tampil secara utuh sesuai dengan hasil input terakhir.
+- Object oriented libraries
+    - Pre-loaded libraries seperti perpustakaan autentikasi membuat Laravel lebih unik dibandingkan dengan kerangka kerja lainnya. Kerangka kerja ini memiliki sejumlah pustaka yang dapat digunakan untuk membantu, membangun serta mengembangkan sebuah aplikasi dengan cepat.
+- Terdapat fasilitas arsitektur MVC
+    - Fasilitas arsitektur MVC (Model-View-Controller) yang tersedia pada Laravel ini sangat membantu untuk memisahkan sistem aplikasi berdasarkan antara manipulasi data, antar pengguna, dan bagian kontrol utama aplikasi.
+- Kustomisasi website
+    - Laravel Framework sudah memiliki paket skenario yang disediakan untuk pengguna, tapi tetap bisa fleksibel untuk melakukan kustomisasi website sesuai keinginan serta kebutuhan. Tak hanya mudah dalam kustomisasi awal pembuatan website, tetapi juga mudah untuk melakukan improvisasi website dengan sangat mudah.
+- Tidak membutuhkan waktu lama
+    - Dengan adanya pre-loaded libraries pada Framework Laravel, proses pembuatan aplikasi yang Anda inginkan akan menjadi lebih cepat dan fungsinya sesuai kebutuhan.
+- Mudah dalam migrasi data
+    - Setelah melakukan pembaharuan aplikasi, tidak perlu repot untuk membuat ulang struktur database yang baru, karena sistem sudah bisa melakukan migrasi data secara langsung. Informasi akan tampil secara utuh sesuai dengan hasil input terakhir.
 
 ## Cara Penggunaan Aplikasi 
 - Website sisterhoods dapat diakses melalui link berikut ini :
