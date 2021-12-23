@@ -15,7 +15,7 @@ Kurangnya wadah bagi perempuan untuk mengaktualisasikan diri sehingga membuat pe
 
 ## Sitemap User Application
 <img src=public/layouts/img/sitemapuser.png/>
-- [Pengguna dapat mengakses bagian home dan akan ditampilkan halaman yang berisi jumbotron, about, dan tampilan instagram sisterhoods yang dihubungkan oleh fitur embed social].
+- **[Pengguna dapat mengakses bagian home dan akan ditampilkan halaman yang berisi jumbotron, about, dan tampilan instagram sisterhoods yang dihubungkan oleh fitur embed social]**.
 - [Pengguna dapat mengakses bagian about us dan akan ditampilkan dropdown vision & mission yang berisi visi dan misi dari sisterhoods serta dropdown meet the team yang berisi nama anggota dan foto] .
 - [Pengguna dapat mengakses bagian article untuk melihat artikel-artikel yang terpublish serta dapat membaca artikel yang tersedia] .
 - [Pengguna dapat mengakses bagian events untuk melihat events lama yang diadakn sisterhoods serta mengikuti events-events terbaru] .
