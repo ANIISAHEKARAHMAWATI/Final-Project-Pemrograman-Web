@@ -5,7 +5,7 @@
 Kurangnya wadah bagi perempuan untuk mengaktualisasikan diri sehingga membuat perempuan jadi tak bebas dalam berekspresi. Padahal kita tahu bahwa kebebasan berekspresi adalah hak universal yang harus dinikmati oleh semua orang. Dengan adanya website Sisterhoods ini, bisa memudahkan para wanita di Indonesia untuk menyuarakan suara mereka, mengedukasi, serta mendukung para wanita di Indonesia agar lebih berani untuk menyampaikan aspirasinya. Tak hanya itu, website Sisterhoods ini juga membantu para wanita di Indonesia agar tidak merasa sendirian, agar mampu melewati masa-masa yang sulit, dan bisa menjalani kehidupan yang lebih bahagia dari sebelumnya. 
 
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
+- [Pengguna dapat mengakses bagian article untuk melihat artikel-artikel yang terpublish serta dapat membaca artikel yang tersedia].
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
 - Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
